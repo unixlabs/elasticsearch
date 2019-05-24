@@ -1,2 +1,2 @@
 # elasticsearch
-Elasticsearch Docker clsuter for Production and Microservices. 
+Elasticsearch Docker cluster for Production and Microservices. 
